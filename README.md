@@ -19,8 +19,10 @@
 
 
 ### 技術棧
-  前端-JavaScript + jquery + HTML + Bootstrap
-  後端-Node + express + sql
+  前端-JavaScript + [jquery](https://jquery.com/) + HTML + [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+  後端-Node + express + MySql
+  
+  
   
 ### CSS 命名規則
 kebab-case(串燒)： my-first-component; 
