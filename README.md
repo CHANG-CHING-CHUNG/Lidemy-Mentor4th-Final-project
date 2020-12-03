@@ -19,8 +19,11 @@
 
 
 ### 技術棧
-  前端-JavaScript + [jquery](https://jquery.com/) + HTML + [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-  後端-Node + express + MySql
+  前端-React or Next js + Styled components
+  
+  後端-Node + express + MySql or postgreSQL or MongoDB
+  
+  主機- AWS EC2
   
   
   
@@ -36,7 +39,9 @@ Miaohsien: 前端-1-主頁顯示最新5\~10部電影 + 3-分類按鈕顯示最�
 
 Alina: 前端-2-電影簡介 + 4-訂閱按鈕
 
-John: 後台+後端-1-顯示訂閱人數 + 2-顯示最多人訂閱電影類型排行 + 3-定時更新電影資料 + 4-傳取消訂閱連結給使用者
+John: 後台+後端-1-顯示訂閱人數 + 2-顯示最多人訂閱電影類型排行 + 建立電影資料爬蟲 + 建立資料庫 + 建立週期排程程式，固定週期爬電影資料放進資料庫
+
+Jason Huang: 後端- 建立 AWS 主機 + 建立 API Server + 建立資料庫
 
 ### 動工日期
 開始: 12月1日
@@ -44,5 +49,15 @@ John: 後台+後端-1-顯示訂閱人數 + 2-顯示最多人訂閱電影類型�
 
 ### 會議週期
 每週三-晚上7點
+
+### 目前進度
+
+#### 2020/12/3
+
+Jason Huang - [後端 API](https://github.com/JAS0NHUANG/final-project-backend)
+
+Alina - 
+
+John - [電影資料爬蟲](https://github.com/CHANG-CHING-CHUNG/JS_Movie-crawler)
 
 
