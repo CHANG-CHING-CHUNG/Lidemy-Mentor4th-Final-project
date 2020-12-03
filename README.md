@@ -21,9 +21,11 @@
 ### 技術棧
   前端-React or Next js + Styled components
   
-  後端-Node + express + MySql or postgreSQL or MongoDB
+  後端-Node + express + MongoDB
   
-  主機- AWS EC2
+  主機-AWS EC2
+  
+  ES-LINT: airbnb 規則
   
   
   
@@ -56,7 +58,7 @@ Jason Huang: 後端- 建立 AWS 主機 + 建立 API Server + 建立資料庫
 
 Jason Huang - [後端 API](https://github.com/JAS0NHUANG/final-project-backend)
 
-Alina - 
+Alina - [前端網頁](https://teiekinei.github.io/final-project-frontend/index.html) [前端 Repo](https://github.com/Teiekinei/final-project-frontend)
 
 John - [電影資料爬蟲](https://github.com/CHANG-CHING-CHUNG/JS_Movie-crawler)
 
