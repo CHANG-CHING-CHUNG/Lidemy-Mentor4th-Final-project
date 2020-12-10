@@ -63,7 +63,9 @@ Jason Huang - [後端 API](https://github.com/JAS0NHUANG/final-project-backend)
 2. http://movie-api.jas0nhuang.tw/this-week : 得到目前本週即將上映電影資料
 
 Alina - [前端網頁](https://teiekinei.github.io/final-project-frontend/index.html) [前端 Repo](https://github.com/Teiekinei/final-project-frontend)
-1. ![](https://i.imgur.com/xGnAKoa.png)
+![](https://i.imgur.com/qO5Hcr4.jpg)
+
+
 
 
 John - [電影資料爬蟲](https://github.com/CHANG-CHING-CHUNG/JS_Movie-crawler)
