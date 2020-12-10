@@ -69,5 +69,29 @@ Alina - [前端網頁](https://teiekinei.github.io/final-project-frontend/index.
 John - [電影資料爬蟲](https://github.com/CHANG-CHING-CHUNG/JS_Movie-crawler)
 1. ![](https://i.imgur.com/7IptFRK.png)
 
+#### 2020/12/10 進度
+
+Alina:
+* 改版面配色
+* 改 Logo 加飛機特效
+* 改電影介紹區塊
+
+#### 預定工作
+Jason:
+* 訂閱功能
+* 分享功能，例如分享到社群網站
+
+Alina:
+* 串電影簡介API
+* 電影詳細資訊的 POP UP
+* 網站 Footer 製作
+
+Miaohsien:
+* 網站 React 化
+* 串主頁電影API 
+
+John:
+* 串 youtube 預告片
+
 
 
