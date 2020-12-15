@@ -60,7 +60,9 @@ Jason Huang - [後端 API](https://github.com/JAS0NHUANG/final-project-backend)
 
 目前開了兩個 url 分別為: http://movie-api.jas0nhuang.tw/ 以及 http://movie-api.jas0nhuang.tw/this-week
 1. http://movie-api.jas0nhuang.tw/ : 得到目前上映中電影資料
-2. http://movie-api.jas0nhuang.tw/this-week : 得到目前本週即將上映電影資料
+2. http://movie-api.jas0nhuang.tw/movies-thisweek : 得到目前本週即將上映電影資料
+3. http://movie-api.jas0nhuang.tw/movie-genres : 得到電影的類別標籤  
+4. http://movie-api.jas0nhuang.tw/subscribe : 輸入電子郵件訂閱電影通知  
 
 Alina - [前端網頁](https://teiekinei.github.io/final-project-frontend/index.html) [前端 Repo](https://github.com/Teiekinei/final-project-frontend)
 ![](https://i.imgur.com/qO5Hcr4.jpg)
