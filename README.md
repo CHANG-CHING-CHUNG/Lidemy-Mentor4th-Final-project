@@ -86,7 +86,7 @@ Alina:
 Jason:
 * Email 訂閱功能已開 API，但未驗證資料正確性-完成
 * 分享功能，例如分享到社群網站-開發中
-* movie_genres 後面加上查詢字串，搜尋特定電影類型的功  
+* movie_genres 後面加上查詢字串，搜尋特定電影類型的功能  
 example.com/movie_genres?genre="秘密"
 
 Alina:
