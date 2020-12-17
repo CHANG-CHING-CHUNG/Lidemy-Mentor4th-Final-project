@@ -66,7 +66,9 @@ Jason Huang - [後端 API](https://github.com/JAS0NHUANG/final-project-backend)
 4. http://movie-api.jas0nhuang.tw/subscribe : 輸入電子郵件訂閱電影通知  
 
 Alina - [前端網頁](https://teiekinei.github.io/final-project-frontend/index.html) [前端 Repo](https://github.com/Teiekinei/final-project-frontend)
-![](https://i.imgur.com/qO5Hcr4.jpg)
+12/17-Miaohsien更新 React 版頁面
+![](https://i.imgur.com/sJixbgO.jpg)
+
 
 
 
