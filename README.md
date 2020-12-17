@@ -59,6 +59,7 @@ Jason Huang: 後端- 建立 AWS 主機 + 建立 API Server + 建立資料庫
 Jason Huang - [後端 API](https://github.com/JAS0NHUANG/final-project-backend)
 
 目前開了兩個 url 分別為: http://movie-api.jas0nhuang.tw/ 以及 http://movie-api.jas0nhuang.tw/this-week
+
 1. http://movie-api.jas0nhuang.tw/ : 得到目前上映中電影資料
 2. http://movie-api.jas0nhuang.tw/movies-thisweek : 得到目前本週即將上映電影資料
 3. http://movie-api.jas0nhuang.tw/movie-genres : 得到電影的類別標籤  
@@ -80,10 +81,13 @@ Alina:
 * 改 Logo 加飛機特效
 * 改電影介紹區塊
 
-#### 預定工作
+#### 2020/12/17
+
 Jason:
-* 訂閱功能
-* 分享功能，例如分享到社群網站
+* Email 訂閱功能已開 API，但未驗證資料正確性-完成
+* 分享功能，例如分享到社群網站-開發中
+* movie_genres 後面加上查詢字串，搜尋特定電影類型的功  
+example.com/movie_genres?genre="秘密"
 
 Alina:
 * 串電影簡介API
@@ -95,7 +99,8 @@ Miaohsien:
 * 串主頁電影API 
 
 John:
-* 串 youtube 預告片
+* 串 youtube 預告片-開發中
+
 
 
 
