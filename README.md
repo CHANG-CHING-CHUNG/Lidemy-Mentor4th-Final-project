@@ -86,21 +86,43 @@ Alina:
 Jason:
 * Email 訂閱功能已開 API，但未驗證資料正確性-完成
 * 分享功能，例如分享到社群網站-開發中
-* movie_genres 後面加上查詢字串，搜尋特定電影類型的功能  
+* movie_genres 後面加上查詢字串，搜尋特定電影類型的功能-開發中
+example.com/movie_genres?genre="秘密"
+
+Alina:
+* 串電影簡介API-開發中
+* 電影詳細資訊的 POP UP-開發中
+* 網站 Footer 製作-開發中
+
+Miaohsien:
+* 網站主頁 React 化-完成
+* 串主頁電影API -完成
+
+John:
+* 串 youtube 預告片-開發中
+
+### 預定工作
+
+Jason:
+* 繼續完善 Email 訂閱功能 API
+* movie_genres 後面加上查詢字串，搜尋特定電影類型的功能
 example.com/movie_genres?genre="秘密"
 
 Alina:
 * 串電影簡介API
 * 電影詳細資訊的 POP UP
 * 網站 Footer 製作
+* 改網站主頁版面設計
 
 Miaohsien:
-* 網站 React 化
-* 串主頁電影API 
+* 分類頁面的 React 化
 
 John:
-* 串 youtube 預告片-開發中
+* 串 youtube 預告片
+* 有空就串串看 FB 分享功能
 
-
+### 第二階段功能
+* 社群網站分享功能
+* Newsletter 電子報功能
 
 
