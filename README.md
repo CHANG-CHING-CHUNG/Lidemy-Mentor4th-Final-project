@@ -103,12 +103,27 @@ Miaohsien:
 John:
 * 串 youtube 預告片-開發中
 
-### 預定工作
+
+#### 2020/12/24  
 
 Jason:
-* 繼續完善 Email 訂閱功能 API
-* movie_genres 後面加上查詢字串，搜尋特定電影類型的功能
-example.com/movie_genres?genre="秘密"
+* 將原先取得全部上映中電影的 API 連結改為 "/movies-intheaters"
+* 新增 "/movies-intheaters" 分類篩選功能。
+
+Alina:
+* 處理電影詳細資訊 POP UP
+* 先將首頁第一部電影顯示大卡片移除，改為全部顯示小卡片，點擊後顯示詳細資訊 POP UP。
+
+
+### 預定工作
+
+* 大家分頭思考一下電影分類應該如何處理。
+* 討論如何處理預告片顯示
+* 電子報版面設計
+
+Jason:
+* 繼續完善 Email 訂閱功能 API，新增退訂功能。
+* 問一下同學 Matiral UI 使用方法、心得。
 
 Alina:
 * 串電影簡介API
