@@ -128,7 +128,6 @@ Jason:
 Alina:
 * 串電影簡介API
 * 電影詳細資訊的 POP UP
-* 網站 Footer 製作
 * 改網站主頁版面設計
 
 Miaohsien:
