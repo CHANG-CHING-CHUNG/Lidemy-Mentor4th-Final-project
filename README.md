@@ -58,7 +58,11 @@ Jason Huang: 後端- 建立 AWS 主機 + 建立 API Server + 建立資料庫
 
 Jason Huang - [後端 API](https://github.com/JAS0NHUANG/final-project-backend)
 
-目前開了兩個 url 分別為: http://movie-api.jas0nhuang.tw/ 以及 http://movie-api.jas0nhuang.tw/this-week
+已完成 API：
+上映中電影：http://movie-api.jas0nhuang.tw/movies-intheaters
+下週上映電影：http://movie-api.jas0nhuang.tw/movies-thisweek
+電影分類：http://movie-api.jas0nhuang.tw/movie-genres
+訂閱：http://movie-api.jas0nhuang.tw/subscribe
 
 1. http://movie-api.jas0nhuang.tw/ : 得到目前上映中電影資料
 2. http://movie-api.jas0nhuang.tw/movies-thisweek : 得到目前本週即將上映電影資料
