@@ -133,6 +133,25 @@ John:
 Miaohsien:
 * 分類頁面的 React 化 - 0%
 
+#### 2021/1/6
+
+John:
+* 前端我要訂閱按鈕，頁面功能實作 - 50%
+* 串串看 FB 分享功能 - 0%
+
+Alina:
+* 主頁 RWD - 0%
+* 電影詳細資訊的 POP UP RWD化 - 0%
+
+Miaohsien:
+* 分類頁面的 React 化 - 0%
+* 主頁 loading 圖 - 0%
+* 電影海報占位圖 - 0%
+
+Jason:
+* 新增退訂功能 - 90%
+* 後端 API 分類功能 - 0%
+
 
 ### 預定工作
 
@@ -141,6 +160,7 @@ Miaohsien:
 
 Jason:
 * 新增退訂功能。
+* 後端 API 分類功能
 
 Alina:
 * 主頁 RWD
@@ -148,11 +168,12 @@ Alina:
 
 Miaohsien:
 * 分類頁面的 React 化
+* 主頁 loading 圖
+* 電影海報占位圖
 
 John:
-* 完善串 youtube 預告片
-* 有空就串串看 FB 分享功能
 * 前端我要訂閱按鈕，頁面功能實作
+* 串串看 FB 分享功能
 
 ### 第二階段功能
 * 社群網站分享功能
