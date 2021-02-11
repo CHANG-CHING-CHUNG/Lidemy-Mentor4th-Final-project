@@ -54,28 +54,9 @@ Jason Huang: 後端- 建立 AWS 主機 + 建立 API Server + 建立資料庫
 
 ### 目前進度
 
-#### 2020/12/3
+[Hello-Movie Repo](https://github.com/Hello-Movie);
 
-Jason Huang - [後端 API](https://github.com/JAS0NHUANG/final-project-backend)
-
-已完成 API：
-
-1. https://movie-api.jas0nhuang.tw/movies-intheaters : 得到目前上映中電影資料。(可使用 query string 篩選取得某類型之電影)
-2. https://movie-api.jas0nhuang.tw/movies-thisweek : 得到目前本週即將上映電影資料。(1、2 兩者回傳資料皆以上映日期排序，由新至舊。)
-3. https://movie-api.jas0nhuang.tw/movie-genres : 得到電影的類別標籤  
-4. https://movie-api.jas0nhuang.tw/subscribe : 輸入電子郵件訂閱電影通知。
-5. https://movie-api.jas0nhuang.tw/unsubscribe : 電子郵件退訂連結
-
-Alina - [前端網頁](https://teiekinei.github.io/final-project-frontend/index.html) [前端 Repo](https://github.com/Teiekinei/final-project-frontend)
-12/17-Miaohsien更新 React 版頁面
-![](https://i.imgur.com/sJixbgO.jpg)
-
-
-
-
-
-John - [電影資料爬蟲](https://github.com/CHANG-CHING-CHUNG/JS_Movie-crawler)
-1. ![](https://i.imgur.com/7IptFRK.png)
+[Hello-Movie 前端頁面](https://hello-movie.github.io/Hello-Movie-Frontend/)
 
 #### 2020/12/10 進度
 
