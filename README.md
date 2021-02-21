@@ -56,7 +56,7 @@ Jason Huang: 後端- 建立 AWS 主機 + 建立 API Server + 建立資料庫
 
 [Hello-Movie Repo](https://github.com/Hello-Movie);
 
-[Hello-Movie 前端頁面](https://hello-movie.github.io/Hello-Movie-Frontend/)
+[Hello-Movie 前端頁面](https://hello-movie.tw/#/)
 
 #### 2020/12/10 進度
 
